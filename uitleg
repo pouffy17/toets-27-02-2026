@@ -1,0 +1,7 @@
+dus hier wat uit leg 
+je ziet een dht11 en een bmp280
+deze zijn ver bonden via een esp32-c6-wroom-1
+op het scherm (lcd met een i2c) voor gemakelijk de temp binnen en buiten te lezen 
+de dht is op gpio 7 5V en Ground aangesloten 
+de bmp280 is met de lcd op de A4 en A5 aangesloten en op de 3.3V
+lcd is op de A4 en A5 , de 5V en Ground aangesloten
